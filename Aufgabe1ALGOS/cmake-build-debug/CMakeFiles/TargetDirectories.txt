@@ -1,0 +1,3 @@
+/Users/alaa/Desktop/Aufgabe1ALGOS/cmake-build-debug/CMakeFiles/Aufgabe1ALGOS.dir
+/Users/alaa/Desktop/Aufgabe1ALGOS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alaa/Desktop/Aufgabe1ALGOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
